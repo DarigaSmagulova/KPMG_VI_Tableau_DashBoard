@@ -1,1 +1,1 @@
-More Tableau projects could be found here: https://public.tableau.com/app/profile/dariga.smagulova/vizzes
+More Tableau projects can be found here: https://public.tableau.com/app/profile/dariga.smagulova/vizzes
